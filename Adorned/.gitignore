@@ -1,0 +1,10 @@
+# ignore everything.
+*
+
+# keep these:
+!Config/
+!Content/
+!Source/
+!*.uproject
+
+!.gitignore
