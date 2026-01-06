@@ -2,8 +2,8 @@
 *
 
 # keep these:
-!config/
-!content/
-!source/
-!*.uproject
+!Adorned/Config/
+!Adorned/Content/
+!Adorned/Source/
+!Adorned/*.uproject
 !.gitignore
