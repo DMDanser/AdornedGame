@@ -1,10 +1,8 @@
-# ignore everything.
-*
-
-# keep these:
-!Config/
-!Content/
-!Source/
-!*.uproject
-
-!.gitignore
+#ignore these:
+.vs
+Binaries
+DerivedDataCache
+Intermediate
+Saved
+.vsconfig
+Adorned.sln
