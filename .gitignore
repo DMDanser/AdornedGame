@@ -1,0 +1,9 @@
+# ignore everything.
+*
+
+# keep these:
+!config/
+!content/
+!source/
+!*.uproject
+!.gitignore
